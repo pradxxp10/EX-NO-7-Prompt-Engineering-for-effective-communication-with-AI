@@ -3,8 +3,10 @@
 The main purpose of prompt engineering is to guide artificial intelligence models to produce accurate, relevant, and useful outputs by designing clear and structured instructions. Prompt engineering is the process of structuring an instruction so an AI model gives an accurate and useful response
 ### GOALS OF PROMPT ENGINEERING
 •	Improve Accuracy: Reduce errors and wrong facts (hallucinations) by giving the AI precise context and rules.
+
 •	Control Tone and Format: Ensure the AI replies in a specific style, length, or layout (like bullet points, JSON code, or a friendly voice).
 •	Handle Complex Tasks: Break hard problems into smaller steps using methods like chain-of-thought reasoning.
+
 •	Bridge Vague Inputs: Help everyday user requests turn into structured, actionable commands that an AI application can actually process. 
 
 ## PROMPTING TECHNIQUES
@@ -29,42 +31,51 @@ You use clear, explicit commands with action verbs to outline constraints, forma
 Example:
 “Write a product description under 50 words using a professional tone.”
 ### ESSENTIAL PROMPT TECHNIQUES
-•	Context Framing: Set clear roles, target audiences, specific tones, and exact output formats.
-•	Advanced Prompting: Apply few-shot learning with examples and use chain-of-thought logic for complex problem-solving.
-•	Parameter Tuning: Adjust model settings like temperature and top-p values to control creativity and predictability.
-PRACTICE PROMPTS AND SEE THE OUTPUTS
+
+1. Context Framing: Set clear roles, target audiences, specific tones, and exact output formats.
+
+2. Advanced Prompting: Apply few-shot learning with examples and use chain-of-thought logic for complex problem-solving.
+
+3. Parameter Tuning: Adjust model settings like temperature and top-p values to control creativity and predictability.
+
+### PRACTICE PROMPTS AND SEE THE OUTPUTS
+
 FOR DOCUMENTS
-•	\Visualizelearning
-•	\generatehandwrittenimage 
-•	\sticky-notes
-•	\teacher
-•	\doctor
-•	\lawyer
-•	\ideas10<Your Research field>
+
+1. \Visualizelearning
+2. \generatehandwrittenimage
+3. \sticky-notes
+4. \teacher
+5. \doctor
+6. \lawyer
+7. \ideas10<Your Research field>
+
 
 ### QUESTIONS
-•	Explain [TOPIC]like I’m a beginner
-•	Give me 10 ideas for [Goal]
-•	Write a professional[TYPE]for [Audience]
-•	Improve this text and plan for[Goal]
-•	Create a step-by-step plan for [Goal]
+
+1. Explain [TOPIC] like I’m a beginner
+2. Give me 10 ideas for [Goal]
+3. Write a professional [TYPE] for [Audience]
+4. Improve this text and plan for [Goal]
+5. Create a step-by-step plan for [Goal]
+
 ### FOR IMAGES
 
-•  /underwater — Underwater scene 
-•  /pencilsketch — Pencil drawing 
-•  /goldenhour — Golden hour lighting 
-•  /lowpoly — Low-poly 3D 
-•  /wildlife — Wildlife photography 
-•  /cinematicphoto — Movie-like photography 
-•  /interior — Interior design visualization 
-•  /anime — Anime artwork 
-•  /macrophotо — Macro photography 
-•  /oilpainting — Oil painting style 
-•  /droneview — Drone aerial shot 
-•  /blackandwhite — Monochrome style 
-•  /pixelart — Pixel art 
-•  /architecturephoto — Architectural photography 
-•  /hyperrealistic — Extreme realism 
+1. `/underwater` — Underwater scene
+2. `/pencilsketch` — Pencil drawing
+3. `/goldenhour` — Golden hour lighting
+4. `/lowpoly` — Low-poly 3D
+5. `/wildlife` — Wildlife photography
+6. `/cinematicphoto` — Movie-like photography
+7. `/interior` — Interior design visualization
+8. `/anime` — Anime artwork
+9. `/macrophotо` — Macro photography
+10. `/oilpainting` — Oil painting style
+11. `/droneview` — Drone aerial shot
+12. `/blackandwhite` — Monochrome style
+13. `/pixelart` — Pixel art
+14. `/architecturephoto` — Architectural photography
+15. `/hyperrealistic` — Extreme realism
 
 ### APPLICATION PROMPTS
 
@@ -75,9 +86,12 @@ FOR DOCUMENTS
 
 ### CORE TAKEAWAYS
 
-•	Clarity matters: Specific instructions and explicit constraints prevent vague or off-target responses.
-•	Cost-effective optimization: Adjusting prompts is the fastest and cheapest way to improve output quality without retraining models.
-•	Advanced techniques: Methods like chain-of-thought and role assignments help guide logical reasoning and formatting
+1. Clarity matters: Specific instructions and explicit constraints prevent vague or off-target responses.
+
+2. Cost-effective optimization: Adjusting prompts is the fastest and cheapest way to improve output quality without retraining models.
+
+3. Advanced techniques: Methods like chain-of-thought and role assignments help guide logical reasoning and formatting.
+
 
 ## CONCLUSION
 In conclusion, prompt engineering serves as the essential communication bridge that bridges human intent and machine understanding to maximize the performance of artificial intelligence. Prompt engineering is important because it directly controls the quality, accuracy, and relevance of outputs from artificial intelligence. Traditional prompt engineering is largely obsolete, but the core discipline has evolved into context engineering and system architecture design. 
