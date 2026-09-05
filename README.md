@@ -41,6 +41,7 @@ FOR DOCUMENTS
 •	\doctor
 •	\lawyer
 •	\ideas10<Your Research field>
+
 ### QUESTIONS
 •	Explain [TOPIC]like I’m a beginner
 •	Give me 10 ideas for [Goal]
